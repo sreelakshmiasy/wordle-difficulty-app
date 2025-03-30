@@ -92,7 +92,7 @@ Now you can find out — with explainable AI. 😄
 
 ## 👩‍💻 Author
 
-**Sreelakshmi Asy**  
+**Sreelakshmi A S**  
 🔗 [GitHub](https://github.com/sreelakshmiasy)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sreelaxmias/)
 ---
