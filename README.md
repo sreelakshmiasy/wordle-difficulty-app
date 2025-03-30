@@ -42,7 +42,7 @@ wordle-difficulty-predictor/
 The model uses:
 - **Word frequency** in English
 - **Vowel count**
-- **Rare letter count** (e.g., q, z, x, j, v)
+- **Rare letter count** (e.g., q, z, x, j, k)
 - **Duplicate letters**
 
 It classifies difficulty into:
