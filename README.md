@@ -97,4 +97,9 @@ Now you can find out — with explainable AI. 😄
 🔗 [LinkedIn](https://www.linkedin.com/in/sreelaxmias/)
 ---
 
+## 📂 Data Source
 
+The 5-letter word list used in this project was adapted from the original Wordle word list maintained by [Tab Atkins](https://github.com/tabatkins/wordle-list).  
+🔗 [https://github.com/tabatkins/wordle-list/blob/main/words](https://github.com/tabatkins/wordle-list/blob/main/words)
+
+Used under the MIT license for educational and non-commercial purposes.
